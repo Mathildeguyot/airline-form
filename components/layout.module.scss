@@ -1,0 +1,18 @@
+.customContainer {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.backToHome {
+  color: white;
+  text-decoration: none;
+  background-color: hotpink;
+  padding: 10px;
+  border-radius: 4px;
+  margin-top: 20px;
+
+  &:hover {
+    color: indigo;
+  }
+}
